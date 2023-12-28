@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cymarien
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Analytics Essentials with Cisco.
+- 🌱 I’m currently learning Data Analytics Essentials with Cisco Networking Academy.
 - 📫 How to reach me on cymarien@gmail.com
 
 <!---
